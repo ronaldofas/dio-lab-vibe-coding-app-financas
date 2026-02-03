@@ -76,24 +76,24 @@ No README do seu repositório, inclua:
 - Seu **prompt final** (PRD);
   ```txt
   # Contexto
-Quero criar um aplicativo de Organização de Finanças Pessoais que funcione por meio de conversas com o usuário.  
-A ideia é facilitar o controle financeiro de forma simples e natural, sem formulários manuais ou planilhas complexas.
-# Problema
-Muitas pessoas desistem de controlar seus gastos porque os apps atuais exigem muita entrada manual e pouca personalização.  
-Quero resolver isso com uma experiência de conversa e recomendações automáticas de economia.
-# Público-Alvo
-Pessoas que querem começar a organizar suas finanças de forma prática e sem complicação, principalmente iniciantes.
-# Funcionalidades-Chave
-1. Registrar gastos via chat em linguagem natural.  
-2. Classificar automaticamente as transações.  
-3. Definir e acompanhar metas financeiras.  
-4. Receber dicas de economia do “Agente Financeiro”.  
-5. Visualizar relatórios simples e personalizados.
-6. Indicar investimentos relevantes para o perfil do usuário.
-# Entregável da IA
-Gerar um plano de MVP com as principais telas, recursos necessários e um esboço de validação inicial.  
-Se possível, fazer um protótipo estilo FIGMA.
-Usar tom educativo e linguagem acessível, em português.
+  Quero criar um aplicativo de Organização de Finanças Pessoais que funcione por meio de conversas com o usuário.  
+  A ideia é facilitar o controle financeiro de forma simples e natural, sem formulários manuais ou planilhas complexas.
+  # Problema
+  Muitas pessoas desistem de controlar seus gastos porque os apps atuais exigem muita entrada manual e pouca personalização.  
+  Quero resolver isso com uma experiência de conversa e recomendações automáticas de economia.
+  # Público-Alvo
+  Pessoas que querem começar a organizar suas finanças de forma prática e sem complicação, principalmente iniciantes.
+  # Funcionalidades-Chave
+  1. Registrar gastos via chat em linguagem natural.  
+  2. Classificar automaticamente as transações.  
+  3. Definir e acompanhar metas financeiras.  
+  4. Receber dicas de economia do “Agente Financeiro”.  
+  5. Visualizar relatórios simples e personalizados.
+  6. Indicar investimentos relevantes para o perfil do usuário.
+  # Entregável da IA
+  Gerar um plano de MVP com as principais telas, recursos necessários e um esboço de validação inicial.  
+  Se possível, fazer um protótipo estilo FIGMA.
+  Usar tom educativo e linguagem acessível, em português.
   ```
 - Prints ou pequenos vídeos das interações com a IA;
 ```txt
@@ -103,33 +103,32 @@ Usar tom educativo e linguagem acessível, em português.
 ```
 - Um resumo do que o seu **App de Finanças Pessoais** faz;
 ```txt
-O aplicativo é como um **"Personal Trainer do Dinheiro"** que vive dentro de um chat. Ele substitui a complexidade das planilhas e o tédio dos formulários por uma conversa natural e inteligente.
-
----
-
-## O que o aplicativo faz:
-
-* **Gestão por Conversa:** Você registra ganhos e gastos apenas digitando (ou falando) como se estivesse enviando uma mensagem no WhatsApp. Ex: *"Gastei 45 reais com almoço hoje"*.
-* **Cérebro Automático:** Ele identifica sozinho a categoria (Alimentação, Transporte, Lazer) e organiza tudo em um relatório simples, sem que você precise mover um dedo.
-* **Mentor Proativo:** O "Agente Financeiro" não espera você perguntar. Ele te avisa se você estiver perto do limite do orçamento e sugere ajustes em tempo real para você economizar.
-* **Foco em Metas:** Você define um objetivo (ex: "Viagem de Férias") e o app calcula quanto você precisa guardar e te motiva a chegar lá com dicas personalizadas.
-* **Caminho para Investir:** Com base no que sobra no seu mês, ele recomenda onde investir esse dinheiro de forma segura e adequada ao seu nível de conhecimento.
-
----
-
-**Em resumo:** É uma ferramenta feita para quem quer ter controle total do dinheiro sem gastar tempo com burocracia, transformando o hábito de poupar em uma experiência leve e educativa.
-
-Gostaria que eu escrevesse um exemplo de **como seria o diálogo** entre o usuário e o Agente Financeiro para testar o tom de voz?
+  O aplicativo é como um **"Personal Trainer do Dinheiro"** que vive dentro de um chat. Ele substitui a complexidade das planilhas e o tédio dos formulários por uma conversa natural e inteligente.
+  
+  ---
+  
+  ## O que o aplicativo faz:
+  
+  * **Gestão por Conversa:** Você registra ganhos e gastos apenas digitando (ou falando) como se estivesse enviando uma mensagem no WhatsApp. Ex: *"Gastei 45 reais com almoço hoje"*.
+  * **Cérebro Automático:** Ele identifica sozinho a categoria (Alimentação, Transporte, Lazer) e organiza tudo em um relatório simples, sem que você precise mover um dedo.
+  * **Mentor Proativo:** O "Agente Financeiro" não espera você perguntar. Ele te avisa se você estiver perto do limite do orçamento e sugere ajustes em tempo real para você economizar.
+  * **Foco em Metas:** Você define um objetivo (ex: "Viagem de Férias") e o app calcula quanto você precisa guardar e te motiva a chegar lá com dicas personalizadas.
+  * **Caminho para Investir:** Com base no que sobra no seu mês, ele recomenda onde investir esse dinheiro de forma segura e adequada ao seu nível de conhecimento.
+  ---
+  
+  **Em resumo:** É uma ferramenta feita para quem quer ter controle total do dinheiro sem gastar tempo com burocracia, transformando o hábito de poupar em uma experiência leve e educativa.
+  
+  Gostaria que eu escrevesse um exemplo de **como seria o diálogo** entre o usuário e o Agente Financeiro para testar o tom de voz?
 ```
 - Uma breve **reflexão sobre o processo**:
   - O que funcionou bem?
-    - A construção do PRD funcionou muito bem.
+    `- A construção do PRD funcionou muito bem.`
   - O que não funcionou como o esperado?
-    - O PRD não completo o suficiente para conseguir a criação da aplicação completa apenas com ele.
+    `- O PRD não completo o suficiente para conseguir a criação da aplicação completa apenas com ele.`
   - O que aprendeu sobre conversar com IAs?
-    - Aprendi a utilizar a plataforma lovable e novas funcionalidades de IA.
+    `- Aprendi a utilizar a plataforma lovable e novas funcionalidades de IA.`
   - Resultado final do projeto:
-    - https://coin-converse-guide.lovable.app 
+    `- https://coin-converse-guide.lovable.app`
 
 > [!TIP]
 > Publique seu repositório e compartilhe o link na plataforma da DIO! Sua entrega é a prova de que você domina o raciocínio de Vibe Coding, mesmo sem escrever uma única linha de código.
